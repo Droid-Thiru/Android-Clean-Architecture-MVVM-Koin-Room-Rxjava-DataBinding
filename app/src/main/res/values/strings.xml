@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Clean Arch Sample</string>
+    <string name="password">Password</string>
+    <string name="email_id">Email Id</string>
+    <string name="login">Login</string>
+    <string name="sign_up_new_user">Sign-Up New User</string>
+    <string name="registration">Registration</string>
+    <string name="email">Email</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+
+    <string name="dashboard_email">Email : %s</string>
+    <string name="dashboard_first_name">First Name : %s</string>
+    <string name="dashboard_last_name">Last Name : %s</string>
+
+    <string name="confirm_password">Confirm Password</string>
+    <string name="dashboard">Dashboard</string>
+</resources>
